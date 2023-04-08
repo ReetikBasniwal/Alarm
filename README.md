@@ -19,6 +19,4 @@ This is a simple alarm clock application that can be used on your desktop or lap
     * You can also delete the alarm by using delete alarm.
 ## Demo
 
-Insert gif or link to demo
-
 https://wonderful-halva-c19098.netlify.app/
